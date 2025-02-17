@@ -31,5 +31,6 @@ Usage:
 
 To start capturing packets, run the following command:
 
-python sniffer.py (for gui)
-python sniffer.py --cli (for cli)
+python packet_sniffer.py (for gui)
+
+python packet_sniffer.py --cli (for cli)
